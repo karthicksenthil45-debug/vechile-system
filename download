@@ -1,0 +1,14 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary or editor files
+.idea/
+.vscode/
+*.swp
+*.bak
+*~
+
+# Java compile sources list
+java/sources.txt

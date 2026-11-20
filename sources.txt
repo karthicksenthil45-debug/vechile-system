@@ -1,0 +1,14 @@
+java/src/com/vcet/vehicleservice/dao/AppointmentDAO.java
+java/src/com/vcet/vehicleservice/dao/BillDAO.java
+java/src/com/vcet/vehicleservice/dao/CustomerDAO.java
+java/src/com/vcet/vehicleservice/dao/DatabaseConnection.java
+java/src/com/vcet/vehicleservice/dao/ServiceRecordDAO.java
+java/src/com/vcet/vehicleservice/dao/VehicleDAO.java
+java/src/com/vcet/vehicleservice/main/VehicleServiceApp.java
+java/src/com/vcet/vehicleservice/model/Appointment.java
+java/src/com/vcet/vehicleservice/model/Bill.java
+java/src/com/vcet/vehicleservice/model/Customer.java
+java/src/com/vcet/vehicleservice/model/ServiceRecord.java
+java/src/com/vcet/vehicleservice/model/Vehicle.java
+java/src/com/vcet/vehicleservice/service/BillingService.java
+java/src/com/vcet/vehicleservice/service/ReportService.java
